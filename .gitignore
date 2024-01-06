@@ -80,7 +80,9 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+#dist
+__snapshots__
+*.map
 
 # Gatsby files
 .cache/
